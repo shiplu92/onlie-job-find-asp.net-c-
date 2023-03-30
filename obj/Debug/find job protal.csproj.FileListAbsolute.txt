@@ -1,0 +1,59 @@
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\find job protal.dll.config
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\find job protal.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\find job protal.pdb
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\csc.exe
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\csc.exe.config
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\csc.rsp
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\csi.exe
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\csi.exe.config
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\csi.rsp
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.AppContext.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Console.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.IO.Compression.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Net.Http.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.ValueTuple.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\vbc.exe
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\vbc.exe.config
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\vbc.rsp
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\VBCSCompiler.exe
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\obj\Debug\find job protal.csproj.AssemblyReference.cache
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\obj\Debug\find job protal.csproj.CoreCompileInputs.cache
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\obj\Debug\find job protal.csproj.CopyComplete
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\obj\Debug\find job protal.dll
+C:\Users\shiplu khandakar\Documents\Visual Studio 2022\Online job find\find job protal\obj\Debug\find job protal.pdb
